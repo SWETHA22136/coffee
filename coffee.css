@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Dancing+Script:wght@400;500&family=Josefin+Sans:ital,wght@0,500;1,400&family=Lobster&family=Raleway&display=swap');
-
 *{
     padding: 0;
     margin: 0;
@@ -8,7 +7,6 @@
     font-size: 25px;
     scroll-behavior: smooth; */
 }
-
 nav{
     display: flex;
     justify-content: space-between;
