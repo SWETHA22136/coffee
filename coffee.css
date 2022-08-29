@@ -177,6 +177,7 @@ nav{
     background-color: white;
     padding-left: 10%;
     padding-right:10%;
+    position:relative;
 }
 .coffees .light h1{
     color: rgb(20, 155, 20);
@@ -185,20 +186,20 @@ nav{
     font-weight: bold;
 }
 .coffees .light img{
-    width: 689px;
-    height: 403px;
-    position: relative;
+    width: 617px;
+    height: 345px;
+/*     position: relative; */
 }
 .coffees .light p{
-    font-size: 30px;
+    font-size:25px;
     font-family:'Roboto Condensed', sans-serif;
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding-right: 10%;
     position: absolute;
-    left: 45%;
-    top: 164%;
+    left:57%;
+    top: 122px;
     right: 40px;
 }
 .coffees .medium h1{
@@ -208,20 +209,20 @@ nav{
     font-weight: bold;
 }
 .coffees .medium img{
-    width: 689px;
-    height: 403px;
-    position: relative;
+    width: 617px;
+    height: 345px;
+/*     position: relative; */
 }
 .coffees .medium p{
-    font-size: 30px;
+    font-size: 25px;
     font-family:'Roboto Condensed', sans-serif;
     display: flex;
     align-items: center;
     justify-content: space-between;
     padding-right: 10%;
     position: absolute;
-    left: 45%;
-    top: 226%;
+    left: 57%;
+    top: 632;
     right: 40px;
 }
 .coffees .dark h1{
@@ -231,12 +232,12 @@ nav{
     font-weight: bold;
 }
 .coffees .dark img{
-    width: 689px;
-    height: 403px;
-    position: relative;
+    width: 617px;
+    height: 345px;
+/*     position: relative; */
 }
 .coffees .dark p{
-    font-size: 30px;
+    font-size: 25px;
     font-family:'Roboto Condensed', sans-serif;
     display: flex;
     align-items: center;
@@ -244,8 +245,8 @@ nav{
     padding-right: 10%;
     position: absolute;
     padding-right:10% ;
-    left: 45%;
-    top: 280%;
+    left: 57%;
+    top: 1123px;
     right: 40px;
 }
 footer{
