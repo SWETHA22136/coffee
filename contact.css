@@ -7,8 +7,8 @@
 }
 .contact{
 /*     position: relative; */
-/*     height: 150vh;  */
-    padding: 10px 10px;
+    height: 150vh;  
+/*     padding: 10px 10px; */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -24,7 +24,7 @@
     font-size: 36px;
     font-weight: 500;
     color:white;
-    margin-top: -190px;
+    margin-top: 50px;
 }
 .contact .content p{
     font-size: 30px;
