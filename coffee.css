@@ -1,4 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Dancing+Script:wght@400;500&family=Josefin+Sans:ital,wght@0,500;1,400&family=Lobster&family=Raleway&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Dancing+Script:wght@400;500&family=Josefin+Sans:ital,wght@0,500;1,400&family=Lobster&display=swap'); */
+
 *{
     padding: 0;
     margin: 0;
@@ -7,6 +9,14 @@
     font-size: 25px;
     scroll-behavior: smooth; */
 }
+    /* body{
+    /* width: 100%; */
+    /* height: 100vh; */
+    /* margin: auto; */
+/* } */ */
+/* .menu{
+    display: none;
+} */
 nav{
     display: flex;
     justify-content: space-between;
@@ -27,7 +37,7 @@ nav{
     background-image: url("bg.jpg");
     background-size: cover;
     
-    height:1300px;
+/*     height:1300px; */
     /* background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6),url("bg.jpg")); */
     background-position: center;
     /* background-size: cover; */
